@@ -24,9 +24,9 @@ _Olivia Hinton: hinton.olivia@gmail.com_
 
 ## Technologies Used
 
-_HTML_
-_CSS_
-_Bootstrap_
+*_HTML_
+*_CSS_
+*_Bootstrap_
 
 ### License
 
