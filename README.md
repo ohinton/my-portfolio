@@ -13,7 +13,7 @@ _This is Olivia Hinton's first independent web project for Epicodus. Its purpose
 * _Clone this repository_
 * _Open a HTML file_
 * _Open web browser of choice_
-* _GitHub Pages: http://ohinton.github.io/my-portfolio
+* _GitHub Pages: http://ohinton.github.io/my-portfolio_
 
 ## Known Bugs
 
