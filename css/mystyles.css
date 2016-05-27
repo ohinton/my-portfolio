@@ -10,3 +10,12 @@
 .img {
   text-align: center;
 }
+
+.project-title {
+  font-style: oblique;
+}
+
+.footer {
+  padding-top: 100px;
+  text-align: center;
+}
