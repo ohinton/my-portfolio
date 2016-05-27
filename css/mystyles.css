@@ -7,6 +7,12 @@
   text-align: left;
 }
 
+.headshot {
+  float: right;
+  padding-top: 50px;
+  padding-left: 200px;
+}
+
 .img {
   text-align: center;
 }
@@ -16,6 +22,6 @@
 }
 
 .footer {
-  padding-top: 100px;
   text-align: center;
+  padding-top: 100px;
 }
